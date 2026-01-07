@@ -31,10 +31,8 @@
 </p>
 
 ## GitHub Stats
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunnyrockk&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyrockk&layout=compact&theme=radical" width="48%">
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sunnyrockk&show_icons=true&theme=radical&count_private=true" alt="sunnyrockk's GitHub Stats">
 </p>
 
 
