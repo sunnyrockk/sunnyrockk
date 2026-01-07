@@ -2,9 +2,7 @@
 <h3 align="center">A passionate FullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyrockk&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyrockk" /> </p>
-- 🔭 I’m currently working on **Awesome Project**
-
-- 👯 I’m looking to collaborate on **Collaboration Project**
+- 🔭 I’m currently working on java springBoot ,Front-end 
 
 - 👨‍💻 All of my projects are available at [https://sunnyabc.vercel.app/](https://sunnyabc.vercel.app/)
 
@@ -25,17 +23,14 @@
 
 
 
-### 💻 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sunny_mall?theme=dark&font=Karma&ext=heatmap" />
-</p>
+
 
 ## GitHub Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=sunnyrockk&show_icons=true&theme=radical&count_private=true" alt="sunnyrockk's GitHub Stats">
 </p>
+### 💻 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sunny_mall?theme=dark&font=Karma&ext=heatmap" />
+</p>
 
-
-
-### 🏆 GitHub Trophies
-        Soonn............
